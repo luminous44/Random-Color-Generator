@@ -22,6 +22,6 @@ HTML, CSS, JavaScript
 ## 📥 Download & Installation  
 Clone the repository using Git:  
 ```bash
-git clone https://github.com/aklema094/Random-Color-Generator.git
+git clone https://github.com/luminous44/Random-Color-Generator.git
 ```  
-Or download the ZIP file manually from [here](https://github.com/aklema094/Random-Color-Generator/archive/refs/heads/main.zip).  
+Or download the ZIP file manually from [here](https://github.com/luminous44/Random-Color-Generator/archive/refs/heads/main.zip).  
